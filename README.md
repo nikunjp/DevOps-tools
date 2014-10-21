@@ -19,9 +19,6 @@ DevOps tools
 * Rundeck
 * Capistrano & Webistrano
 * Fabric
-    * abc
-    * def
-    * 
 * Glu
 
 ## Continuous Integration & Continuous Delivery/Deployment
