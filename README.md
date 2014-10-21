@@ -5,26 +5,29 @@ DevOps tools
 
 ## Virtualization & Container
 
-### Vagrant
-### Docker
+* Vagrant
+* Docker
 
 ## Configuration Management
 
-### Puppet
-### Chef
-### SaltStack
+* Puppet
+* Chef
+* SaltStack
 
 ## Orchestration
 
-### Rundeck
-### Capistrano & Webistrano
-### Fabrid
-### Glu
+* Rundeck
+* Capistrano & Webistrano
+* Fabric
+    * abc
+    * def
+    * 
+* Glu
 
 ## Continuous Integration & Continuous Delivery/Deployment
 
-### Jenkins
-### ThoughtWorks Go
+* Jenkins
+* ThoughtWorks Go
 
 
 ## Monitoring
